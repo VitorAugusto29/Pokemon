@@ -7,6 +7,6 @@
     <title>Pokemon</title>
 </head>
 <body>
-    <h3>Você escolheu o pokemon: Pikachu</h3>
+    <h3>Você escolheu o pokemon: Bulbasaur</h3>
 </body>
 </html>
